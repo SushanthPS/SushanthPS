@@ -4,12 +4,14 @@ An aspiring Software Developer with 500+
 hours of coding experience in Javascript,
 Java, and Python.
 
+<br/>
   
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sushanthps.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushanthps/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Sushanthps)
 
+<br/>
   
 ## 🛠 Tech Stack
 <p> 
@@ -27,6 +29,7 @@ Java, and Python.
    <a href="https://www.python.org/download/releases/3.0/" target="_blank"> <img width="40" height="40" src="https://sushanthps.vercel.app/python.png"/> </a>
 </p>
 
+<br/>
 
 ## 🤖 Stats
 <p align="left">
@@ -34,9 +37,9 @@ Java, and Python.
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sushanth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sushanthps&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
   <img alt="Sushanth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushanthps&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  
 </p>
 
+<br/>
 
 ## ❤ Views and Followers
 
