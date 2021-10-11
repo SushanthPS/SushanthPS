@@ -25,7 +25,22 @@ Java, and Python.
     <a href="https://redux.js.org/" target="_blank"> <img width="55" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"/> </a>
     <a href="https://www.java.com/en/" target="_blank"> <img width="40" height="40" src="https://sushanthps.vercel.app/java.png"/> </a> &nbsp
    <a href="https://www.python.org/download/releases/3.0/" target="_blank"> <img width="40" height="40" src="https://sushanthps.vercel.app/python.png"/> </a>
-
-  
- 
 </p>
+
+
+## 🤖 Stats
+<p align="left">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=sushanthps">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sushanth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sushanthps&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+  <img alt="Sushanth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushanthps&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  
+</p>
+
+
+## ❤ Views and Followers
+
+<a href="https://komarev.com/ghpvc/?username=sushanthps">
+    <img src="https://komarev.com/ghpvc/?username=sushanthps">
+</a>
+<a href="https://img.shields.io/github/followers/sushanthps"><img src="https://img.shields.io/github/followers/sushanthps?label=Followers&style=social" alt="GitHub Badge"></a>
