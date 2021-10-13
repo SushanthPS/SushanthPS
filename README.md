@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-An aspiring Software Developer with 1000+
+An aspiring Full-Stack Web Developer with 1000+
 hours of coding experience in Javascript,
 Java, and Python.
 
