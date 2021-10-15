@@ -1,5 +1,5 @@
 
-## <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/> About Me
+## 🚀About Me
 An aspiring Full-Stack Web Developer with 1000+
 hours of coding experience in Javascript,
 Java, and Python.
